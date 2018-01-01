@@ -15,7 +15,7 @@ demo_project/lib_ext
 
 `hello_world`, `lib_cat`, and `main` are three subproject of top-level project
 `demo_project`. `hello world` is a trivial project. `lib_cat` is a library project,
-and both shared and static library will be built. `main` project will use `lib_cat` and
+both shared and static library will be built. `main` project will use `lib_cat` and
 `lib_ext`. Two targets of `main` will be built, one for dynamic link and the other for
 static link.
 
