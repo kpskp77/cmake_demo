@@ -1,0 +1,7 @@
+tags
+build/
+build2/
+.vimprj/prj.session
+lib_ext/build/
+lib_ext/build2/
+lib_ext/install/

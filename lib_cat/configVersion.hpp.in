@@ -1,0 +1,4 @@
+// the configured options and settings for lib_cat
+#define LIB_CAT_VERSION_MAJOR @LIB_CAT_VERSION_MAJOR@
+#define LIB_CAT_VERSION_MINOR @LIB_CAT_VERSION_MINOR@
+#define LIB_CAT_VERSION_PATCH @LIB_CAT_VERSION_PATCH@

@@ -1,0 +1,4 @@
+// the configured options and settings for main
+#define MAIN_VERSION_MAJOR @MAIN_VERSION_MAJOR@
+#define MAIN_VERSION_MINOR @MAIN_VERSION_MINOR@
+#define MAIN_VERSION_PATCH @MAIN_VERSION_PATCH@
