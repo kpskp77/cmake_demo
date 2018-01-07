@@ -8,6 +8,11 @@ if(CMAKE_INSTALL_PREFIX_INITIALIZED_TO_DEFAULT)
         CACHE PATH "default install path" FORCE)
 endif()
 
+# force release build by default
+if (NOT CMAKE_BUILD_TYPE)
+    set(CMAKE_BUILD_TYPE Release)
+endif()
+
 # set version number
 set(LIB_EXT_VERSION_MAJOR 1)
 set(LIB_EXT_VERSION_MINOR 0)
