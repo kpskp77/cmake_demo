@@ -39,4 +39,4 @@
 #  endif
 #endif
 
-#endif
+#endif /* LIB_CAT_SHARED_EXPORT_H */
